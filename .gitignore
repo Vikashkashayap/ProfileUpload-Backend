@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build / output
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+.tmp/
+
+# Editor / system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Optional: lock files (if you only want one type)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
